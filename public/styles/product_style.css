@@ -1,0 +1,23 @@
+h1.banner{
+	color: black;
+	height: 80px;
+	background-color: #1CC3B0;
+	line-height: 80px;
+	text-align: center;
+}
+p.footer{
+	color: black;
+	height: 30px;
+	line-height: 30px;
+	background-color: #1CC3B0;
+	text-align: center;
+}
+.product{
+	border: 1px solid gray;
+    text-align:center;
+}
+.productdetail{
+	min-height: 600px ;
+	padding: 20px;
+}
+
